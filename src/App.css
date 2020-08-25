@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: mediumpurple;
+   
+}
+
+.app {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
